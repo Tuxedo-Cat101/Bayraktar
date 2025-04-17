@@ -1,5 +1,6 @@
 import pygame
 
+#Setsup the pygame window where controls are entered
 def init():
     pygame.init()
     win = pygame.display.set_mode((400,400))

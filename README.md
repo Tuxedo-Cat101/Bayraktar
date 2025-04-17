@@ -10,4 +10,6 @@ Instructions: Turn on the drone, wait for a flashing yellow light on said drone,
              W/S Keys: W moves the drone up, S moves the drone down
              A/D Keys: A rotates the drone left, D rotates the drone right
              L/T Keys: L automatically lands the drone and turns it off, T automatically takeoffs the drone
-             
+             F Key: F causes the drone to execute a flip forward
+             Double clicking in the live feed tab will get the color of the double clicked area and put the name of the color in colour.txt
+             Pressing the Escape Key in the live feed tab will close all tabs and end the program

@@ -2,7 +2,10 @@ This is a project where we take a Tello Drone, fly it through hulahoops and it d
 
 Team Members: Connor, Teagan, Logan(Logiebear)
 
-Instructions: Turn on the drone, wait for a flashing yellow light on said drone, then connect your device to the drone.
+Instructions: Before running, ensure pandas is installed by running the following prompt(without the parantheses) in the Visual Studio terminal:
+                "pip install pandas"
+              Turn on the drone, wait for a flashing yellow light on said drone, then connect your device to the drone.
+              Run the code
               Running the code should automatically connect the drone, you should get two tabs to pop-up, the pygame and camera feed.
               The pygame tab must be selected to do controls for the drone.
     Controls:

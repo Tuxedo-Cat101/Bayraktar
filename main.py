@@ -3,9 +3,6 @@ import pandas as pd
 from djitellopy import tello
 import time
 import keypress as kp
-from collections import Counter
-from PIL import Image
-import webcolors
 
 kp.init()
 drone = tello.Tello()
